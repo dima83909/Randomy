@@ -1,4 +1,4 @@
-package io.ionic.demo.pg.cap.ng;
+package app.randomy.ng;
 
 import com.getcapacitor.BridgeActivity;
 
